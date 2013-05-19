@@ -6,4 +6,12 @@ DATABASE = {
     'user':     'root',
     'password': '901014',
 }
-baidu_key = 'B191d4e9d6d44492d34150a81718ca1c'
+
+# Flickr
+flickr_key = '***'
+flickr_secret = '***'
+
+# Face++
+API_KEY = '***'
+API_SECRET = '***'
+
